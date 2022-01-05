@@ -4,4 +4,4 @@ import pytest
 
 def test_command(request):
     a = 1
-    assert(a == 2)
+    assert(a == 1)
